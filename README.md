@@ -1,4 +1,4 @@
-# SWN Sector Manager
+# EXExampleMaker
 
 Graphical UI for clustering data with EM-algorithm. Results are printed to a file spesified by the user and drawing graphs of the results is possible for 2- and 3-dimensional data.
 Implementation of EM-algorithm is from scikit-learn library and drawing is done with matplotlib.
